@@ -1,5 +1,5 @@
 {
-    "name": "php-http/message-factory",
+    "name": "psr/http-message",
     "description": "Factory interfaces for PSR-7 HTTP Message",
     "license": "MIT",
     "keywords": ["http", "factory", "message", "stream", "uri"],
